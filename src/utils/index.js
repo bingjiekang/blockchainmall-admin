@@ -42,9 +42,9 @@ export function hideMiddleString(str) {
 }
 
 // 单张图片上传
-export const uploadImgServer = 'http://localhost:8080/manage-api/v1/upload/file'
+export const uploadImgServer = 'http://140.83.37.178:8080/manage-api/v1/upload/file'
 // 多张图片上传
-export const uploadImgsServer = 'http://localhost:8080/manage-api/v1/upload/files'
+export const uploadImgsServer = 'http://140.83.37.178:8080/manage-api/v1/upload/files'
 
 export const pathMap = {
   login: '登录',

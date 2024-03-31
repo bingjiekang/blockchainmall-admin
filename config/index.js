@@ -3,9 +3,9 @@ export default {
     baseUrl: '/api' // 测试接口域名
   },
   beta: {
-    baseUrl: '//localhost:8080/manage-api/v1' // 测试接口域名
+    baseUrl: '//140.83.37.178:8080/manage-api/v1' // 测试接口域名
   },
   release: {
-    baseUrl: '//localhost:8080/manage-api/v1' // 正式接口域名
+    baseUrl: '//140.83.37.178:8080/manage-api/v1' // 正式接口域名
   }
 }

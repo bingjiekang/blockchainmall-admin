@@ -57,7 +57,7 @@ app.config.globalProperties.$filters = {
       return url
     } else {
       // url = `http://backend-api-02.newbee.ltd${url}`
-      url = `http://localhost:8080${url}`
+      url = `http://140.83.37.178:8080${url}`
       return url
     }
   }
